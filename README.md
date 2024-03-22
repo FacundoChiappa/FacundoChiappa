@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/facundo-chiappa-15a9b7235)
-[![Portfolio](https://img.shields.io/website?url=https%3A%2F%2Ffacundoportfolio.vercel.app%2F)]
+[![Portfolio](https://img.shields.io/badge/website-%230077B5.svg?logo=website&logoColor=white)](https://facundoportfolio.vercel.app/)
  
 
 # 💻 Tech Stack:
